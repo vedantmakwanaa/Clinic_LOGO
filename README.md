@@ -6,7 +6,7 @@ Welcome to the Animal Clinic GitHub repository! This repository contains resourc
 
 Our clinic's logo is the visual representation of our love and dedication to the well-being of animals. It symbolizes our mission to provide high-quality veterinary care for dogs and cats. Feel free to use our logo for any related purposes, such as marketing materials, social media, or even just to show your support for our clinic.
 
-![Clinic Logo](pet1.jpg)
+![Clinic Logo](pet logos (1)-01.jpg)
 
 ## Usage
 
